@@ -92,20 +92,22 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriculum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQL                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
+| App Academy Open - Web Development Fundamentals                                                                                                                       |            |              |
+| App Academy Open - JavaScript Fundamentals                                                                                                                            |            |              |
+| App Academy Open - Intermediate JavaScript                                                                                                                            |            |              |
+| App Academy Open - TDD and OOP                                                                                                                                        |            |              |
+| App Academy Open - Data Structures and Algorithms                                                                                                                     |            |              |
+| App Academy Open - HTML and CSS                                                                                                                                       |            |              |
+| App Academy Open - Servers, APIs, and Promises                                                                                                                        |            |              |
+| App Academy Open - Frontend JavaScript                                                                                                                                |            |              |
+| App Academy Open - Express & SQL                                                                                                                                      |            |              |
+| App Academy Open - Express & Sequelize                                                                                                                                |            |              |
+| App Academy Open - Web Security and Authentication                                                                                                                    |            |              |
+| App Academy Open - React                                                                                                                                              |            |              |
+| App Academy Open - Redux and Authentication                                                                                                                           |            |              |
+| App Academy Open - Python                                                                                                                                             |            |              |
+| App Academy Open - Flask, SQLAlchemy, and Forms                                                                                                                       |            |              |
+| App Academy Open - Docker and Microservices                                                                                                                           |            |              |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
@@ -118,7 +120,7 @@ If you didn't do App Academy Open in Tier 0, please consider doing it as your Sp
 | Courses                                                                                                                                                                                                |   Status   |   Evidence   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                               |            |              |
-| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2)                                                                                          |            |              |
+| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2)                                                                                                         |            |              |
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                       |            |              |
 | Do this: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous)                                                               |            |              |
 | Or, this: [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)              |            |              |
